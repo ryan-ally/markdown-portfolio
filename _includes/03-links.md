@@ -1,1 +1,1 @@
-[github] (https://codepen.io/rhanr155/collections/)
+[github](https://codepen.io/rhanr155/collections/)
